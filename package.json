@@ -7,7 +7,7 @@
     "start": "node -r esm src/main.js"
   },
   "dependencies": {
-    "@discordjs/opus": "^0.1.0",
+    "@discordjs/opus": "^0.8.0",
     "@keyv/redis": "^2.1.0",
     "@keyv/sqlite": "^2.0.2",
     "array-flatten": "^2.1.2",
